@@ -1,0 +1,27 @@
+body {
+    background: rgb(123, 255, 0);
+    margin-left: 20px;
+    margin-right: 450px;
+}
+
+header {
+    margin-top: 60px;
+}
+
+h1 {
+    color: rgb(221, 0, 250);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 50px;
+}
+
+.img_padrao {
+    margin-bottom: 15px;
+    width: 500px;
+}
